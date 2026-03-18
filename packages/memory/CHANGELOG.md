@@ -1,5 +1,11 @@
 # @mastra/memory
 
+## 1.8.4-alpha.1
+
+### Patch Changes
+
+- Improved observational memory so completed tasks and answered questions are explicitly tracked and retained, reducing repeated follow-up on resolved topics. ([#14419](https://github.com/mastra-ai/mastra/pull/14419))
+
 ## 1.8.4-alpha.0
 
 ### Patch Changes
